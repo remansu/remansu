@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Remansu Gupta</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-
+<img src="https://i.pinimg.com/originals/28/89/c8/2889c83d93ea4077166f42cd3306aed2.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remansu&label=Profile%20views&color=0e75b6&style=flat" alt="remansu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remansu" alt="remansu" /></a> </p>
